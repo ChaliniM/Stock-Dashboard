@@ -1,0 +1,6 @@
+Pandas
+Numpy
+Plotly
+yfinance
+stocknews
+Streamlit
