@@ -1,4 +1,6 @@
 # STOCK DASHBOARD USING STREAMLIT
+
+Developed an interactive Stock Market Dashboard using Streamlit, allowing users to analyze the performance, financials, and sentiment of any publicly traded stock based on its ticker symbol. The dashboard provides a clear view of historical pricing, return metrics, and real-time news, making it a powerful tool for financial data visualization.
 This is a simple and interactive stock dashboard bulit using **Streamlit**. It allows you to:
 
 - Enter a stock symbol (like AAPL or TSLA)
